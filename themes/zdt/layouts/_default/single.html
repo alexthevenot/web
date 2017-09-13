@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+  {{ partial "head.html" . }}
+  <body>
+    {{ partial "navbar.html" . }}
+    <div class="container">
+      <nav class="breadcrumb" aria-label="breadcrumbs">
+        <ul>
+          <li><a href="/">Accueil</a></li>
+          <li class="is-active"><a href="#" aria-current="page">{{.Title}}</a></li>
+        </ul>
+      </nav>
+    </div>
+    <section class="section">
+      <div class="container">
+        <h1 class="title">{{.Title}}</h1>
+        <div class="content">{{.Content}}</div>
+      </div>
+    </section>
+  </body>
+</html>

@@ -1,0 +1,7 @@
+.navbar-page {
+  border-bottom: 1px solid #ccc;
+}
+
+.navbar-item > img.logo {
+  max-height: 4.25rem;
+}

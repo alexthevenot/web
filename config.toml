@@ -1,0 +1,4 @@
+baseURL = "http://www.zerodechettoulon.org"
+languageCode = "fr-FR"
+title = "Zéro Déchet Toulon"
+theme = "zdt"
