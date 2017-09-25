@@ -14,7 +14,7 @@ dans la ville ? Voici ce que nos échanges ont donné comme résultat :
 > publiques et outiller les acteurs locaux"
 
 Nous faisons partie du **réseau des groupes locaux Zero Waste**, coordonné et
-animépar Zero Waste France. Il a pour vocation de fédérer, renforcer et
+animé par Zero Waste France. Il a pour vocation de fédérer, renforcer et
 valoriser les actions collectives citoyennes dans leur diversité. En tant que
 groupe local, nous choisissons les actions et projets que nous voulons mettre
 en place sur notre territoire et nous nous engageons à :
@@ -31,6 +31,6 @@ en place sur notre territoire et nous nous engageons à :
   à adhérer à titre individuel à prix libre.
 
 Pour plus d’informations sur nos engagements en tant que groupe local, nous vous
-invitons à regarder [la charte d’engagement des groupes locaux Zero Waste][1].
+invitons à consulter [la charte d’engagement des groupes locaux Zero Waste][1].
 
 [1]: https://www.zerowastefrance.org/media/CharteGroupeslocaux.pdf

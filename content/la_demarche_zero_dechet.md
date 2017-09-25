@@ -5,7 +5,7 @@ url: /la_demarche_zero_dechet
 
 La démarche Zéro Déchet et Zéro Gaspillage (de l’anglais Zero Waste) ou, tout
 simplement, la démarche Zéro Déchet, est une démarche positive qui suppose la
-participation de toutes les acteurs de la société pour (source :
+participation de tous les acteurs de la société pour (source :
 livre "[Le Scénario Zero Waste][1]" de Zero Waste France) :
 
 * en priorité, modifier nos modes de production et consommation, afin qu’ils
@@ -16,13 +16,13 @@ livre "[Le Scénario Zero Waste][1]" de Zero Waste France) :
 * promouvoir la valorisation matière du plus grand nombre de déchets générés en
   **triant à la source les déchets recyclables et compostables**.
 
-Il peut sembler difficile, voire utopique ! Pourtant, il existe de nombreuses
-villes qui ont adopté cette démarche et qui obtient de résultats spectaculaires.
-Ces villes, dites Zéro Déchet, ont su réduire la quantité des déchets généres et
+Cela peut sembler difficile, voire utopique ! Pourtant, il existe de nombreuses
+villes qui ont adopté cette démarche et qui obtiennent des résultats spectaculaires.
+Ces villes, dites Zéro Déchet, ont su réduire la quantité des déchets générés et
 optimiser la valorisation de ceux qui ont été produits, tout en réduisant leur
 coût de gestion et en augmentant le nombre d’emplois dédiés à leur valorisation
 matière (recyclage ou compostage). A titre d’exemple, la ville de Trévise en
-Italie, engagé dans la démarche Zéro Déchet depuis une dizaine d’années, recycle
+Italie, engagée dans la démarche Zéro Déchet depuis une dizaine d’années, recycle
 85 % de ses déchets et produit uniquement 50 kg d’ordures ménagères résiduelles
 par an (contre 300 kg en moyenne en France). De plus, le coût de la gestion de
 déchets pour la collectivité est le plus bas du pays, environ 92 € / hab / an
@@ -41,7 +41,7 @@ amusant ! Comment font-elles ? Voici les 5 règles à suivre (source : livre
 1. **Composter le reste !**
 
 Il ne fait pas de doute que la démarche Zéro Déchet est une réalité ! Nous
-sommes là pour aider à la ville et Toulon et à ses habitants à l’adopter petit
+sommes là pour aider la ville de Toulon et ses habitants à l’adopter petit
 à petit :) !
 
 [1]: http://lescenario.zerowastefrance.org/
