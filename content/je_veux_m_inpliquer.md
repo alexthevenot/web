@@ -29,6 +29,6 @@ Voici les différentes manières de s’impliquer :
   * Contactez-nous pour nous en informer ! :)
   * Venez nous rencontrer lors de notre apéro mensuel ou de notre réunion du cercle coeur
 
-[agenda]: https://www.zerodechettoulon.org/agenda/
-[fb]: https://www.facebook.com/ZeroDechetToulon/
+[agenda]: /agenda
+[fb]: https://www.facebook.com/ZeroDechetToulon
 [projets]: http://zerowastegrenoble.wixsite.com/accueil

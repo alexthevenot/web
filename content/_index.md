@@ -17,8 +17,10 @@
         </a>
       </div>
       <div class="column is-4 has-text-justified">
-        <img src="/home/jeveuxmimpliquer.png" alt="Je veux m'implequer!" />
-        <p>Que vous vouliez donner un coup de pouce ponctuel ou vous engager d'une façon plus active dans la vie du collectif, vous êtes les bienvenus !</p>
+        <a href="/je_veux_m_impliquer" alt="S'impliquer">
+          <img src="/home/jeveuxmimpliquer.png" alt="Je veux m'impliquer!" />
+          <p>Que vous vouliez donner un coup de pouce ponctuel ou vous engager d'une façon plus active dans la vie du collectif, vous êtes les bienvenus !</p>
+        </a>
       </div>
     </div>
   </div>
