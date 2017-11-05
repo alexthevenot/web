@@ -5,3 +5,23 @@
 .navbar-item > img.logo {
   max-height: 4.25rem;
 }
+
+.container_actu {
+  width:60%;
+  height:60%;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.container_photo {
+  width:90%;
+  height:90%;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.box_photo {
+  display: inline-block;
+  width: 30%;
+  margin: 1em;
+}
