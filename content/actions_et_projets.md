@@ -1,5 +1,5 @@
 ---
-title: Actions et Pojets
+title: 'Actions et Pojets'
 url: /actions_et_projets
 ---
 

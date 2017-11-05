@@ -1,6 +1,6 @@
 ---
-title: Contacts !
-url: /contacts
+title: Contact
+url: /contact
 ---
 
 
