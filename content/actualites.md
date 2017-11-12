@@ -9,6 +9,13 @@ Vous retrouverez sur cette page la liste des dernières actualités (annonces, a
   <div class="section">
     <div class="rows">
       <div class="row has-text-centered">
+        <a href="/actualites/conferenceZDT" alt="Conférence ZDT">
+          <img src="/actualites/kevin_drew.jpg" alt="Conférence ZDT" />
+          <p>Kevin Drew, pionnier du Zéro Déchet à San Francisco, vient nous parler de son expérience et échanger avec nous.</p>
+        </a>
+      </div>
+      <br><br>
+      <div class="row has-text-centered">
         <a href="/actualites/letripartout" alt="Campagne #letripartout">
           <img src="/actualites/letripartout.png" alt="Campagne #letripartout" />
           <p>Le 18 Octobre, Zero Waste France a lancé une campagne nationale pour dénoncer l'absence de tri dans la majorités des fast-foods en France.
