@@ -1,3 +1,7 @@
+<head>
+  <script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
+</head>
+
 <div class="container">
   <div class="section">
     <div class="content">
